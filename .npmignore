@@ -1,0 +1,8 @@
+.vscode/
+
+__tests__/
+
+src/
+
+.eslint*
+.prettier*
